@@ -28,12 +28,6 @@ The dashboard provides interactive insights into:
 
 ---
 
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
-
----
-
 ## Key Insights
 
 - Highest sales month
