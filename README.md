@@ -231,7 +231,12 @@ It demonstrates how **raw transactional data can be converted into meaningful vi
 
 
 ## Conclusion
+
 The **Coffee Shop Sales Dashboard** is an Excel-based data analysis project created to understand the overall sales performance of a coffee shop using transaction-level sales data. The project starts with raw sales data, which is organized and analyzed using **Excel, Pivot Tables, Pivot Charts, KPI Cards, Slicers, and data visualization techniques**.
+
 The dashboard provides a clear view of important business areas such as **total sales, total orders, average bill, product performance, category-wise sales, monthly sales trends, location-wise performance, customer purchasing patterns, and peak sales periods**.
+
 The main purpose of the project is to convert raw transaction data into an **interactive and easy-to-understand business dashboard**. By using filters and visualizations, users can explore different aspects of the business and identify sales patterns that can support better decisions related to products, inventory, promotions, and operations.
+
 Overall, this project demonstrates how **Microsoft Excel can be used as a practical Business Intelligence and Data Analytics tool** to transform raw sales data into meaningful and actionable insights.
+
